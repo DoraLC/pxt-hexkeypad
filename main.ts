@@ -10,7 +10,7 @@ namespace keypad {
      *  P1, P2, P6, P9, P10, P12, P15, P16.
      *  You can change pins connection as you want.
     */
-    //%block="Initialize row 1 %row1|row 2 %row2|row 3 %row3|row 4 %row4|col 1 %col1|col 2 %col2|col 3 %col3|col 4 %col4"
+    //%block="Initialize I %row1|II %row2|III %row3|IV %row4|V %col1|VI %col2|VII %col3|VIII %col4"
     //%blockId=initialize_key_pad
     //%blockExternalInputs=true
     //%weight=100
